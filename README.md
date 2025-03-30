@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is DK and I'm a Student of GMR Institute of Technology, from Srikakulam</h2>
 
 ###
 
